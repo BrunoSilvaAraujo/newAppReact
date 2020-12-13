@@ -1,3 +1,3 @@
 # newAppReact
-
+App para facilitar o dia a dia fornecendo alguns cálculos de elétrica.
 Projeto em andamento...
